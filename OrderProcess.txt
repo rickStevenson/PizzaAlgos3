@@ -1,0 +1,3 @@
+Step 1: Choose pizza joint
+Step 2: Choose pizza    
+Step 3: Order pizza
